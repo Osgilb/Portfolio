@@ -1,0 +1,183 @@
+body {
+    background-color: #F6E6C2;
+    text-align: center;
+    font-family: arial,Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+.elements {
+    height: 1000px;
+    background-color: #B5F1CC;
+    margin: 0;
+    position: relative;
+    width: 100%;
+}
+
+.name {
+    color: #345d11;
+    margin: 0;
+    position: relative;
+    top: 220px;
+    font-size: 6rem;
+    font-family: Verdana,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:  normal;
+    line-height: normal;
+    text-shadow: 4px 4px 6px rgb(157, 200, 157);
+}
+
+.profession {
+    position: relative;
+    top: 220px;
+    color: #385f1b;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 1.764rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.clouds {
+    top: -750px;
+    margin:  auto 10% auto 10%;
+    position: relative;
+    text-align: center;
+}
+
+.cloud {
+    position: absolute;
+    width: 10%;
+    left: 150px;
+}
+
+.cloudtwo {
+    position: absolute;
+    width: 15%;
+    right: 130px;
+}
+
+.profile {
+    position: relative;
+    top: 30px;
+    width: 220px;
+    border: 10px rgb(6, 91, 62) double;
+    border-radius: 100%;
+    margin-bottom: 20px;
+}
+
+.protext {
+    margin: 0 20%;
+}
+
+.link {
+    text-decoration: none;
+}
+
+/* Other contents from Angela Yu codes */
+
+hr {
+    border-style: none;
+    border-top: 7px dotted #056747;
+    width: 5%;
+    margin-top: 40px;
+    padding-bottom: 60px;
+}
+
+.coding, .design, .ios-dev, .motion {
+    position: relative;
+    width: 50%;
+    margin: 200px auto;
+    text-align: left;
+    line-height: 2; 
+}
+
+.coding-img {
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+    
+}
+
+.design-img {
+    width: 25%;
+    float: right;
+    padding-left: 30px;
+}
+
+.iosdev-img {
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+
+.motion-img {
+    width: 25%;
+    float: right;
+    padding-left: 30px;
+}
+
+.contact-me {
+    position: relative;
+    bottom: 100px;
+    width: 50%;
+    margin: 90px auto;
+}
+
+.para {
+    margin-top: 40px;
+    margin-bottom: 60px;
+    font-size: 19px;
+}
+
+.bottom-container {
+    padding-top: 20px;
+    background-color: #62e494;
+    margin: 0;
+    padding-top: 30px;
+    height: 150px;
+}
+
+.name-bottom {
+    position: relative;
+    top: 50px;
+    margin: 0;
+    margin-top: 20px;
+}
+
+.get {
+    color: brown;
+    font-family: segoe script;
+    margin: 30px 0;
+    padding-top: 20px;
+    font-size: 50px;
+}
+
+.linkedin, .twitter, .website {
+    position: relative;
+    top: 40px;
+    width: 30px;
+    margin: 0 30px;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: #4dbe78;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.btn:hover {
+    text-decoration: none;
+    background-color: #5fd78d;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
